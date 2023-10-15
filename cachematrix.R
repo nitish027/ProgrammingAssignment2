@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions to  do
 
 ##There are two functions makeCacheMatrix,makeCacheMatrix
 ##makeCacheMatrix consists of set,get,setinv, getinv
